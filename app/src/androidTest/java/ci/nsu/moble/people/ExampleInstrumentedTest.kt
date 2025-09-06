@@ -22,3 +22,5 @@ class ExampleInstrumentedTest {
         assertEquals("ci.nsu.moble.people", appContext.packageName)
     }
 }
+
+//Сделать кнопку,которая меняет цвет, который имеется. Android Studio
